@@ -93,3 +93,12 @@ The model is built using a **Multilayer Perceptron** (MLP) with:
 
 ---
 
+## ⚙️ **How to Run the Project**  
+### 1. **Clone the Repository**  
+```bash
+git clone https://github.com/your-username/heart-disease-prediction.git
+
+
+
+
+
